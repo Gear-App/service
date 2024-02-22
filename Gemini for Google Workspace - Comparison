@@ -1,6 +1,0 @@
-Feature,Duet AI (Discontinued),Gemini for Google Workspace
-Availability,Previously available as an add-on for Google Workspace Enterprise,Available in two plans: Enterprise and Business
-Capabilities,Limited to basic writing assistance in Gmail and Docs,"Offers broader functionalities: writing assistance, design suggestions, code generation, and more"
-Integration,Integrated within Gmail and Docs,"Integrated within various Workspace apps (Docs, Slides, Gmail, Calendar) and offers a standalone chat experience"
-Pricing,$30 per user per month (with annual commitment),"Gemini Business: Free for basic features, paid plans for advanced features. Gemini Enterprise: $30 per user per month (with annual commitment)"
-Data Privacy,Conversations could be used for training and reviewed by humans,"Conversations not used for advertising, reviewed by humans, or used for training (with paid plans)"
